@@ -1,0 +1,30 @@
+Stemming and Lemmatization are Text Normalization (or sometimes called Word Normalization) techniques in the field of Natural Language Processing. 
+
+
+
+But what is normalization of text? Well, normalization is getting rid of inflection from sentence. Now, what is inflection? 
+
+
+
+As it is in wiki, “In grammar, inflection is the modification of a word to express different grammatical categories such as tense, case, voice, aspect, person, number, gender, and mood. An inflection expresses one or more grammatical categories with a prefix, suffix or infix, or another internal modification such as a vowel change.”
+
+
+
+Example. Consider the words studying, studies, studied. All three relate to their root study. Words such as am, are, is all relate to their root form be. Similarly brighter, brightest both relate to the root word bright. Spotchamp’s, Spotchamps, Spotchamps’ relate to their root Spotchamp.
+
+
+
+Now consider the following sentence.
+
+“Spotchamps are studying smart for a brighter career “
+
+
+
+A normalization of this sentence would be like this.
+
+Spotchamp be study smart for a bright career.
+
+
+
+Stemming and Lemmatization are widely used techniques in natural language processing. Can you give me an example where you see the usages of word normalization? You do it every day. It’s used in Google search. For an example, when you search for the word house, you also see search results for houses, housing etc. Because both the words relate to their root, house.
+
