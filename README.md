@@ -6,4 +6,4 @@
 * Project of EDA on Covid-19 Twitter Datasets(Spotle.Ai)
 
 
-* The codes of stemming and lemmatization and theri working in named notebooks.
+* The codes of stemming and lemmatization and their working in named notebooks.
