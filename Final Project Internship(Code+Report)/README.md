@@ -57,6 +57,6 @@ Sub Task 2 - Which hashtag trended (Hashtags are words or phrases beginning with
 
 Sub Task 3 - Which Twitter Handler which dominated conversation on Twitter
 
-
+-------------------
 
 Remaining description of the analysis has been described in the submitted files(zip,pdf).
