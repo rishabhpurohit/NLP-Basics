@@ -1,6 +1,6 @@
 # NLP-Basics
 
-* Practicing NLP on some sentences(code in ipython notebooks)
+* Practicing NLP on sentences trimming and tracing text(code in ipython notebooks)
 
 
 * Project of EDA on Covid-19 Twitter Datasets(Spotle.Ai)
