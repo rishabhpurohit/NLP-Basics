@@ -1,3 +1,6 @@
+# TEXT NORMALISATION TECHNIQUES
+
+
 Stemming and Lemmatization are Text Normalization (or sometimes called Word Normalization) techniques in the field of Natural Language Processing. 
 
 
