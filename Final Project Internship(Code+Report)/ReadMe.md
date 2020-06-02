@@ -1,5 +1,7 @@
 # Final Project 
 
+## Brief Content Explanation  
+
 
 1. pdf for explanation of every line of code written
 
@@ -11,7 +13,9 @@
 
 -----------------------------
 
-Steps Followed (Briefly) :-
+
+## Steps Followed (Briefly) :-
+
 
 Importing the Libraries:
 
@@ -38,6 +42,11 @@ Plotly (https://github.com/plotly/plotly.py (https://github.com/plotly/plotly.py
 
 
 Cufflinks (https://github.com/santosjorge/cufflinks (https://github.com/santosjorge/cufflinks))
+
+----------------------------
+
+
+## Sub-Tasks Completed
 
 
 Sub Task 1 - A tag cloud depicting what topics / Word were being talked about on Twitter
